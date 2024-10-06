@@ -7,7 +7,7 @@ import com.ruoyi.course.domain.Course;
  * 课程管理Service接口
  * 
  * @author coolleave
- * @date 2024-10-05
+ * @date 2024-10-06
  */
 public interface ICourseService 
 {

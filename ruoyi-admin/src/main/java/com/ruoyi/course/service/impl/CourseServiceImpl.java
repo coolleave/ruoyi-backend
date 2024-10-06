@@ -12,7 +12,7 @@ import com.ruoyi.course.service.ICourseService;
  * 课程管理Service业务层处理
  * 
  * @author coolleave
- * @date 2024-10-05
+ * @date 2024-10-06
  */
 @Service
 public class CourseServiceImpl implements ICourseService 

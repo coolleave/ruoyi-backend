@@ -9,7 +9,7 @@ import com.ruoyi.common.core.domain.BaseEntity;
  * 课程管理对象 tb_course
  * 
  * @author coolleave
- * @date 2024-10-05
+ * @date 2024-10-06
  */
 public class Course extends BaseEntity
 {

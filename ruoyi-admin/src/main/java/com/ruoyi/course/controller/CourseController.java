@@ -25,7 +25,7 @@ import com.ruoyi.common.core.page.TableDataInfo;
  * 课程管理Controller
  * 
  * @author coolleave
- * @date 2024-10-05
+ * @date 2024-10-06
  */
 @RestController
 @RequestMapping("/course/course")
